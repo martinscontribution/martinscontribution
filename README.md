@@ -1,6 +1,6 @@
 ## Martin Thawe
 
-### Data Analytics | Data Science | Business Intelligence<br>
+### Data Science | Data Analytics | Business Intelligence<br>
 
 Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting & Analytics
 <hr>
