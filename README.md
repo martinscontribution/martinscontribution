@@ -48,7 +48,7 @@ Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. 
 
 <b>CAREER INTERESTS</b><br>
 
-Data Science: Machine Learning, Predictive Analytics, Forecasting, Explainable AI, Model Behaviour Analysis, Natural Language Processing (NLP), Data Visualisation &amp; Insights, Data Engineering
+Data Science: Machine Learning, Predictive Modelling, Forecasting, Explainable AI, Model Behaviour Analysis, Natural Language Processing (NLP), Data Visualisation &amp; Insights, Data Engineering
 
 <hr>
 
