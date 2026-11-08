@@ -4,7 +4,7 @@ Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + 
 <hr>
 <b>ABOUT ME</b><br>
 
-I build end to end data-driven solutions that help organisations make better decisions through Analytics, Machine Learning, Forecasting, and Business Intelligence. My work focuses on transforming complex data into actionable insights across Aviation, Financial Services, Healthcare, Government, Transport, Insurance, Retail and Sustainability
+I build end to end data-driven solutions that help organisations make better decisions through Analytics, Machine Learning, Forecasting, and Business Intelligence. My work focuses on transforming complex data into actionable insights across Aviation, Financial Services, Healthcare, Government, Transport, Insurance, Retail and Sustainability. I am based in the United Kingdom, I collaborate on projects both locally and remotely worldwide.
 <hr>
 
 <b>COMPETENCES</b><br>
