@@ -25,12 +25,12 @@ Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. 
 <ul>
   <li>Flight Delay Prediction &amp; Disruption Forecasting</li>
   <li>Mortgage Valuation &amp; Risk Analytics</li>
-  <li>Visa Compliance Risk Assessment</li>
   <li>Carbon Emissions &amp; Net Zero Intelligence</li>
   <li>London Transport Operations Intelligence</li>
   <li>Online Retail Customer Intelligence</li>
   <li>Motor Insurance Risk Analytics</li>
   <li>Hospital Operations Analytics</li>
+  <li>Visa Compliance Risk Assessment</li>
 </ul>
 
 <hr>
