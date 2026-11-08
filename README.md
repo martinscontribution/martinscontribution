@@ -1,10 +1,7 @@
-## Martin Thawe, MSc (Big Data Analytics), BSc (Hons) Computing
-
-### Data Science | Data Analytics | Business Intelligence<br>
+<h2><b>Martin Thawe</b> MSc (Big Data Analytics), BSc (Hons) Computing</h2>
 
 Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting & Analytics
 <hr>
-
 <b>ABOUT ME</b><br>
 
 I build end to end data-driven solutions that help organisations make better decisions through Analytics, Machine Learning, Forecasting, and Business Intelligence. My work focuses on transforming complex data into actionable insights across Aviation, Financial Services, Healthcare, Government, Transport, Insurance, Retail and Sustainability.
