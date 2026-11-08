@@ -4,12 +4,12 @@ Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + 
 <hr>
 <b>ABOUT ME</b><br>
 
-I build end to end data-driven solutions that help organisations make better decisions through Analytics, Machine Learning, Forecasting, and Business Intelligence. My work focuses on transforming complex data into actionable insights across Aviation, Financial Services, Healthcare, Government, Transport, Insurance, Retail and Sustainability.
+I build end to end data-driven solutions that help organisations make better decisions through Analytics, Machine Learning, Forecasting, and Business Intelligence. My work focuses on transforming complex data into actionable insights across Aviation, Financial Services, Healthcare, Government, Transport, Insurance, Retail and Sustainability
 <hr>
 
 <b>COMPETENCES</b><br>
 
-Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysis, Natural Language Processing (NLP), and Recommendation Systems. 
+Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysis, Natural Language Processing (NLP), and Recommendation Systems 
 <hr>
 
 <b>TECHNICAL SKILLS</b><br>
@@ -51,7 +51,7 @@ Data Science: Machine Learning, Predictive Modelling, Forecasting, Explainable A
 
 <b>PHILOSOPHY</b><br>
 
-My approach is centred on developing evidence-based, end-to-end analytics solutions that establish a single version of the truth, combining technical expertise with business understanding to deliver explainable insights, predictive intelligence, and actionable outcomes.
+My approach is centred on developing evidence-based, end-to-end analytics solutions that establish a single version of the truth, combining technical expertise with business understanding to deliver explainable insights, predictive intelligence, and actionable outcomes
 <hr>
 
 <b>CONTACTS</b><br>
