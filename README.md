@@ -2,7 +2,7 @@
 
 ### Data Analytics | Data Science | Business Intelligence<br>
 
-Building data-driven solutions through analytics, machine learning and forecasting.
+Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting.
 <hr>
 
 <b>ABOUT ME</b><br>
@@ -12,15 +12,14 @@ I build end to end data-driven solutions that help organisations make better dec
 
 <b>COMPETENCES</b><br>
 
-Data Analytics, Data Science, Business Intelligence, Machine Learning, Predictive Analytics, Forecasting, Data Visualisation, Statistical Analysis, Recommendation Systems, Natural Language Processing (NLP)
-
+Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysis, Natural Language Processing (NLP), and Recommendation Systems, 
 <hr>
 
 <b>TECHNICAL SKILLS</b><br>
 
-SQL, Python, Power BI, DAX, Power Query, Excel, Pandas, NumPy, Scikit-Learn, XGBoost, Prophet, Data Modelling, Data Warehousing, ETL, Feature Engineering
+Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. Data Warehousing, T-SQL and Advanced Excel
 <hr>
-
+ 
 <b>PORTFOLIO ROADMAP</b>
 
 <ul>
@@ -40,8 +39,7 @@ SQL, Python, Power BI, DAX, Power Query, Excel, Pandas, NumPy, Scikit-Learn, XGB
 
 <ul>
   <li>Machine Learning &amp; Forecasting</li>
-  <li>Predictive Analytics</li>
-  <li>Power BI Dashboard Development</li>
+  <li>Visualisations</li>
   <li>End-to-End Analytics Projects</li>
   <li>Business Intelligence Solutions</li>
 </ul>
@@ -50,7 +48,7 @@ SQL, Python, Power BI, DAX, Power Query, Excel, Pandas, NumPy, Scikit-Learn, XGB
 
 <b>CAREER INTERESTS</b><br>
 
-Data Science, Machine Learning, Visualisations, Business Intelligence, Insights, Forecasting, Data Engineering
+Data Science, Machine Learning Predictions and Forecasting, Visualisations and Data Insights, Data Engineering
 
 <hr>
 
