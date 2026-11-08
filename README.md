@@ -2,7 +2,7 @@
 
 ### Data Analytics | Data Science | Business Intelligence<br>
 
-Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting.
+Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting & Analytics
 <hr>
 
 <b>ABOUT ME</b><br>
