@@ -12,7 +12,7 @@ I build end to end data-driven solutions that help organisations make better dec
 
 <b>COMPETENCES</b><br>
 
-Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysis, Natural Language Processing (NLP), and Recommendation Systems, 
+Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysis, Natural Language Processing (NLP), and Recommendation Systems. 
 <hr>
 
 <b>TECHNICAL SKILLS</b><br>
