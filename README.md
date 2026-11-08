@@ -1,4 +1,4 @@
-## Martin Thawe, MSc Data (Big Analytics), BSc (Hons) Computing
+## Martin Thawe, MSc (Big Data Analytics), BSc (Hons) Computing
 
 ### Data Science | Data Analytics | Business Intelligence<br>
 
