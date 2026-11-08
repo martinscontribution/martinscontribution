@@ -58,7 +58,7 @@ My approach is centred on developing evidence-based, end-to-end analytics soluti
 
 <hr>
 
-<b>Connect With Me</b><br>
+<b>CONTACTS</b><br>
 
 🔗 <a href="https://www.linkedin.com/in/martin-thawe-07a79029/" target="_blank">LinkedIn</a> |
 💻 <a href="https://github.com/martinscontribution" target="_blank">GitHub</a> |
