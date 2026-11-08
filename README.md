@@ -17,7 +17,7 @@ Data Science, Machine Learning & Forecasting, Visualisation, Statistical Analysi
 
 <b>TECHNICAL SKILLS</b><br>
 
-Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. Data Warehousing, T-SQL and Advanced Excel
+Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. T-SQL, Power BI, Power Automate and Advanced Excel
 <hr>
  
 <b>PORTFOLIO ROADMAP</b>
