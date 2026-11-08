@@ -1,4 +1,4 @@
-<h2><b>Martin Thawe</b> MSc (Big Data Analytics), BSc (Hons) Computing</h2>
+<h2><b>Martin Thawe,</b> MSc (Big Data Analytics), BSc (Hons) Computing</h2>
 
 Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting & Analytics
 <hr>
