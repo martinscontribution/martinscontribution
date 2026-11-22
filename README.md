@@ -1,6 +1,7 @@
 <h2><b>Martin Thawe,</b> MSc (Big Data Analytics), BSc (Hons) Computing</h2>
 
-Building 'End to End' Data-driven solutions through ML (Predictive Modelling) + Forecasting & Analytics
+Delivering End-to-End Data Science & Machine Learning Solutions across Forecasting, Classification, Regression, Customer Segmentation, Recommendation Systems, Natural Language Processing (NLP), and Advanced Analytics.
+
 <hr>
 <b>ABOUT ME</b><br>
 
