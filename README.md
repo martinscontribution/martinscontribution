@@ -52,7 +52,7 @@ Data Science: Machine Learning, Predictive Modelling, Forecasting, Explainable A
 
 <b>PHILOSOPHY</b><br>
 
-My approach is centred on developing evidence-based, end-to-end analytics solutions that establish a single version of the truth, combining technical expertise with business understanding to deliver explainable insights, predictive intelligence, and actionable outcomes
+My approach is centred on developing evidence-based, end-to-end analytics solutions that establish a single version of the truth, combining technical expertise with business understanding to deliver explainable insights, and actionable outcomes
 <hr>
 
 <b>CONTACTS</b><br>
