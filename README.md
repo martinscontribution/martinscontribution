@@ -36,7 +36,7 @@ Full Python e-co System i.e. Pandas, NumPy, Scikit-Learn, XGBoost, and Prophet. 
 <b>CURRENT FOCUS</b>
 
 <ul>
-  <li>Machine Learning &amp; Forecasting</li>
+  <li>Machine Learning - Forecasting, Classification, Regression, Customer Segmentation, Recommendation Systems, Natural Language Processing (NLP)</li>
   <li>Visualisations</li>
   <li>End-to-End Analytics Projects</li>
   <li>Business Intelligence Solutions</li>
